@@ -1,6 +1,6 @@
 body {
     background-color: #f6e3cf;
-  font-family: "Regular 400";
+  font-family: "Chelsea Market";
   font-weight: 100;
   
 }
@@ -11,15 +11,15 @@ header {
     background-color: #c2c7f5;
     padding: 25px;
     text-align: center;
-    font-size: 2em;
+    font-size: 1em;
     font-weight: bold;
     color: #000000;
     border-bottom: 3px solid #274332;
 }
 
 main {
-    padding: 30px 20px;
-    max-width: 900px;
+    padding: 20px 10px;
+    max-width: 500px;
     margin: auto;
     background-color: #c9ddf5;
     box-shadow: 0 0 12px rgba(0,0,0,0.1);
